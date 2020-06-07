@@ -1,0 +1,23 @@
+{
+  "name": "libsimpletools",
+  "keywords": "Utility",
+  "description": "Propeller simpletools",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/msquirogac/Simple-Libraries.git"
+  },
+  "dependencies": [
+    {
+      "name": "libsimplei2c",
+      "version": "~1.2.0"
+    },
+    {
+      "name": "libsimpletext",
+      "version": "~1.2.0"
+    }
+  ],
+  "version": "1.2.0",
+  "frameworks": "*",
+  "platforms": "propeller"
+}

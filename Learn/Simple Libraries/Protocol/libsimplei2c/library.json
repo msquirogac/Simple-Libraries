@@ -1,0 +1,13 @@
+{
+  "name": "libsimplei2c",
+  "keywords": "Protocol",
+  "description": "Propeller simpletools",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/msquirogac/Simple-Libraries.git"
+  },
+  "version": "1.2.0",
+  "frameworks": "*",
+  "platforms": "propeller"
+}
